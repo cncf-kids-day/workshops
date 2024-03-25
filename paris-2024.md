@@ -1,6 +1,6 @@
 # Kids Day @ KubeCon + CloudNativeCon, Paris 2024
 
-The following workshops were conducted at this event:
+The following workshops were delivered at this event:
 
 * [Learning AI with Phippy the Giraffe](learning-ai,md)
 * [Minecraft Modding](minecraft-modding.md)
