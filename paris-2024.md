@@ -2,7 +2,7 @@
 
 The following workshops were delivered at this event:
 
-* [Learning AI with Phippy the Giraffe](learning-ai,md)
+* [Learning AI with Phippy the Giraffe](learning-ai.md)
 * [Minecraft Modding](minecraft-modding.md)
 * [Phippy and Friends Raspberry Pi Zoo Rescue](raspberry-pi.md)
 * [Sonic Pi Workshop for Kids - Unleashing the Magic of Music Through Code](sonic-pi.md)
