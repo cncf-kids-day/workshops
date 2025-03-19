@@ -7,7 +7,7 @@ In order to allow workshop authors to dynamically update the Roblox project, the
 
 **2\.** Unzip the file, and navigate through until you see a file called: **update-roblox.exe** 
 
-**3\.** Double-click the file to run. The first time you open it, Windows Defender will alert you because when the app was packaged, it wasn’t signed with a certificate. Click Run Anyways. 
+**3\.** Double-click the file to run. The first time you open it, Microsoft Defender will alert you because when the app was packaged, it wasn’t signed with a certificate. Click Run Anyways. 
 
 **4\.** Click anywhere on the app window to download the .rbxl file. The app will let you choose where to download it and notify you when it’s successful.
 
