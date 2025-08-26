@@ -6,6 +6,7 @@ Designed to engage young minds in the world of technology and innovation, Kids D
 
 The workshops delivered at different events are listed below.
 
+* [KubeCon + CloudNativeCon, Detroit 2022](detroit-2022.md)
 * [KubeCon + CloudNativeCon, Amsterdam 2023](amsterdam-2023.md)
 * [KubeCon + CloudNativeCon, Chicago 2023](chicago-2023.md)
 * [KubeCon + CloudNativeCon, Paris 2024](paris-2024.md)
